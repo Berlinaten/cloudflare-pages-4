@@ -30,6 +30,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="components\Header.js" />
+    <Content Include="components\Post.js" />
     <Content Include="node_modules\%40next\env\dist\index.js" />
     <Content Include="node_modules\%40next\env\license.md" />
     <Content Include="node_modules\%40next\env\package.json" />
@@ -2402,13 +2404,29 @@
     <Content Include="node_modules\styled-jsx\style.js" />
     <Content Include="node_modules\styled-jsx\webpack.js" />
     <Content Include="package-lock.json" />
+    <Content Include="pages\blog\[slug].js" />
     <Content Include="pages\index.js" />
+    <Content Include="pages\_app.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="pages\_document.js" />
+    <Content Include="posts\post1.md" />
+    <Content Include="posts\post2.md" />
     <Content Include="public\favicon.ico" />
     <Content Include="public\vercel.svg" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+    <Content Include="styles\globals.css" />
+    <Content Include="utils\index.js" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="components\" />
+    <Folder Include="public\images\" />
+    <Folder Include="public\images\posts\" />
+    <Folder Include="utils\" />
+    <Folder Include="pages\blog\" />
+    <Folder Include="posts\" />
+    <Folder Include="styles\" />
     <Folder Include="node_modules\" />
     <Folder Include="node_modules\%40next\" />
     <Folder Include="node_modules\%40next\env\" />
