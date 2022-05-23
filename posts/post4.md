@@ -1,4 +1,10 @@
-# Die Vorteile des Augenbraunlifting
+---
+title: 'Die Vorteile des Augenbrauenlifting'
+date: '11.05.2022'
+excerpt: 'Das ist der 4. text'
+cover_image: '/images/posts/img4.jpg'
+---
+# Die Vorteile des Augenbrauenlifting
 
 Bist du mit deinen Augenbrauen unglücklich? Wenn ja, sollten Sie sich das Heben von Augenbrauen untersuchen. Das Verfahren verstärkt nicht nur Ihr soziales Leben, sondern verbessert auch die Qualität Ihrer Haut. Lesen Sie weiter, um mehr über die verschiedenen Verfahren zu erfahren, um Ihre Optionen besser zu verstehen. Es gibt viele Vorteile, einen Augenbrauenlift zu bekommen. Es gibt drei Haupttypen: endoskopische Brauenhub, Fadenhub und Trichophytic Brow Lift.
 
